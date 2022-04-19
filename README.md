@@ -1,4 +1,4 @@
-Avaliação 1ª semana: ToDo List - Entrega 1 - Backend CRUD memória + Front Vanilla (Read All e Read By Id)
+Avaliação 1ª semana: ToDo List - Entrega 1 - Backend CRUD memória + Front Vanilla (Read All e Read By Id)<br/>
 Endpoints (4 pontos)
 [GET] Leitura de todas as paletas (0,8 pontos);
 [GET] Leitura de paletas individuais (por ID) (0,8 pontos).
