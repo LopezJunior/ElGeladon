@@ -8,10 +8,6 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/isa-blue/c011-m03-fls-elgeladon.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
