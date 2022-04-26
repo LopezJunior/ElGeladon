@@ -7,7 +7,7 @@ function connectToDatabase() {
       console.log('MongoDB conectado');
     })
     .catch((err) => {
-      return console.log(`Erro na conexão com o banco: ${err}`);
+      return console.log(`Erro na conexão: ${err}`);
     });
 }
 
